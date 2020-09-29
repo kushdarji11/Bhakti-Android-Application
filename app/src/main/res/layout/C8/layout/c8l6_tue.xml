@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/text2"
+    tools:context=".C8L6_tue">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="15sp"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:text="सबसे शक्तिशाली है श्री महालक्ष्मी अष्टकम...\n\n
+     नमस्तेस्तु महामाये श्री पीठे सुर पूजिते!\n
+शंख चक्र गदा हस्ते महालक्ष्मी नमोस्तुते!!\n\n
+नमस्तेतु गरुदारुढै कोलासुर भयंकरी!\n
+सर्वपाप हरे देवी महालक्ष्मी नमोस्तुते!!\n\n
+सर्वज्ञे सर्व वरदे सर्व दुष्ट भयंकरी!\n
+सर्वदुख हरे देवी महालक्ष्मी नमोस्तुते!!\n\n
+सिद्धि बुद्धि प्रदे देवी भक्ति मुक्ति प्रदायनी!\n
+मंत्र मुर्ते सदा देवी महालक्ष्मी नमोस्तुते!!\n\n
+आध्यंतरहीते देवी आद्य शक्ति महेश्वरी!\n
+योगजे योग सम्भुते महालक्ष्मी नमोस्तुते!!\n\n
+स्थूल सुक्ष्मे महारोद्रे महाशक्ति महोदरे!\n
+महापाप हरे देवी महालक्ष्मी नमोस्तुते!!\n\n
+पद्मासन स्थिते देवी परब्रह्म स्वरूपिणी!\n
+परमेशी जगत माता महालक्ष्मी नमोस्तुते!!\n\n
+श्वेताम्भर धरे देवी नानालन्कार भुषिते!\n
+जगत स्थिते जगंमाते महालक्ष्मी नमोस्तुते!!\n\n
+महालक्ष्मी अष्टक स्तोत्रं य: पठेत भक्तिमान्नर:!\n
+सर्वसिद्धि मवाप्नोती राज्यम् प्राप्नोति सर्वदा!!\n\n
+एक कालम पठेनित्यम महापापविनाशनम!\n
+द्विकालम य: पठेनित्यम धनधान्यम समन्वित:!!\n\n
+त्रिकालम य: पठेनित्यम महाशत्रुविनाषम!\n
+महालक्ष्मी भवेनित्यम प्रसंनाम वरदाम शुभाम!!\n
+" />
+    </ScrollView>
+</FrameLayout>

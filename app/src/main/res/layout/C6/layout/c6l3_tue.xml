@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/text2"
+    tools:context=".C6L3_tue">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:padding="15sp"
+        android:text="Shani Mantra For Success\n\n
+ॐ श्री शनिदेवाय: नमों नमः|\n
+ॐ श्री शनिदेवाय: शान्ति भवः|\n
+ॐ श्री शनिदेवाय: शुभम फलः|\n
+ॐ श्री शनिदेवाय: फलः प्राप्ति फलः|\n\n
+\n
+Shani Maha Mantra\n\n
+नीलांजनसमाभासं रविपुत्रं यमाग्रजम्‌।\n
+छायामार्तण्ड सम्भूतं तं नमामि शनैश्चरम्‌\n\n
+\n
+Shani Beej Mantra\n\n
+ॐ प्राँ प्रीं प्रौं सः शनैश्चराय नमः ॥
+\n\n\n
+Shani Gayatri Mantra\n\n
+“ॐ  काकध्वजाय  विद्महे\n
+खड्गहस्ताय  धीमहि\n
+तन्नो मन्दः  प्रचोदयात”\n
+\n\n
+Shani Moola Mantra\n\n
+ॐ सः शनैश्चराय नमः ॥\n\n
+" />
+</ScrollView>
+</FrameLayout>

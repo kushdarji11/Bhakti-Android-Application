@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/text2"
+    tools:context=".C4L5_tue">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="15sp"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:text="श्री कृष्णा गोविन्द हरे मुरारी,
+हे नाथ नारायण वासुदेवा॥
+हे नाथ नारायण...॥
+एक मात स्वामी सखा हमारे,
+हे नाथ नारायण वासुदेवा॥
+हे नाथ नारायण...॥
+॥ श्री कृष्णा गोविन्द हरे मुरारी...॥\n
+\n\n
+बंदी गृह के तुम अवतारी
+कही जन्मे कही पले मुरारी
+किसी के जाये किसी के कहाये
+है अद्भुद हर बात तिहारी॥ है अद्भुद...॥
+गोकुल में चमके मथुरा के तारे
+हे नाथ नारायण वासुदेवा॥
+॥ श्री कृष्णा गोविन्द हरे मुरारी...॥\n
+\n\n
+अधर पे बंशी ह्रदय में राधे
+बट गए दोनों में आधे आधे
+हे राधा नागर हे भक्त वत्सल
+सदैव भक्तों के काम साधे॥ सदैव भक्तों...॥
+वही गए वही गए वही गए
+जहाँ गए पुकारे
+हे नाथ नारायण वासुदेवा॥
+॥ श्री कृष्णा गोविन्द हरे मुरारी...॥\n
+\n\n
+गीता में उपदेश सुनाया
+धर्म युद्ध को धर्म बताया
+कर्म तू कर मत रख फल की इच्छा
+यह सन्देश तुम्ही से पाया
+अमर है गीता के बोल सारे
+हे नाथ नारायण वासुदेवा॥
+॥ श्री कृष्णा गोविन्द हरे मुरारी...॥\n
+\n\n
+त्वमेव माता च पिता त्वमेव
+त्वमेव बंधू सखा त्वमेव
+त्वमेव विद्या द्रविणं त्वमेव
+त्वमेव सर्वं मम देव देवा
+॥ श्री कृष्णा गोविन्द हरे मुरारी...॥\n
+\n\n
+राधे कृष्णा राधे कृष्णा
+राधे राधे कृष्णा कृष्णा॥\n
+राधे कृष्णा राधे कृष्णा
+राधे राधे कृष्णा कृष्णा॥\n
+\n\n
+हरी बोल, हरी बोल,
+हरी बोल, हरी बोल॥\n
+
+राधे कृष्णा राधे कृष्णा\n
+राधे राधे कृष्णा कृष्णा\n
+राधे कृष्णा राधे कृष्णा\n
+राधे राधे कृष्णा कृष्णा॥\n
+
+" />
+</ScrollView>
+</FrameLayout>

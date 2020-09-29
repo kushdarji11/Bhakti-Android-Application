@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/text2"
+    tools:context=".C4L3_tue">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:padding="15sp"
+        android:textAlignment="center"
+        android:text="श्री कृष्ण चन्द्र कृपालु भजमन, नन्द नन्दन सुन्दरम्।
+अशरण शरण भव भय हरण, आनन्द घन राधा वरम्॥\n\n
+सिर मोर मुकुट विचित्र मणिमय, मकर कुण्डल धारिणम्।
+मुख चन्द्र द्विति नख चन्द्र द्विति, पुष्पित निकुंजविहारिणम्॥\n\n
+मुस्कान मुनि मन मोहिनी, चितवन चपल वपु नटवरम्।
+वन माल ललित कपोल मृदु, अधरन मधुर मुरली धरम्॥\n\n
+वृषुभान नंदिनी वामदिशि, शोभित सुभग सिहासनम्।
+ललितादि सखी जिन सेवहि, करि चवर छत्र उपासनम्॥\n\n
+॥ हरि: ॐ तत् सत् ॥
+" />
+
+</FrameLayout>

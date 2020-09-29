@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/text2"
+    tools:context=".C6L4_tue">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:padding="15sp"
+        android:text="शनिवार को शनिदेव की पूजा का विधान है। इस दिन यदि पूजा के साथ शनि स्तोत्र का पाठ किया जाए तो शनि की कुद्रष्‍टि से रक्षा हो सकती है ऐसी मान्‍यता है। 10 श्‍लोकों वाला ये स्तोत्र इस प्रकार है।\n\n
+
+नम: कृष्णाय नीलाय शितिकण्ठ निभाय च।\n
+नम: कालाग्निरूपाय कृतान्ताय च वै नम:।1\n\n
+नमो निर्मांस देहाय दीर्घश्मश्रुजटाय च।\n
+नमो विशालनेत्राय शुष्कोदर भयाकृते। 2\n\n
+नम: पुष्कलगात्राय स्थूलरोम्णेऽथ वै नम:।\n
+नमो दीर्घाय शुष्काय कालदंष्ट्र नमोऽस्तु ते। 3\n\n
+नमस्ते कोटराक्षाय दुर्नरीक्ष्याय वै नम:।\n
+नमो घोराय रौद्राय भीषणाय कपालिने। 4\n\n
+नमस्ते सर्वभक्षाय बलीमुख नमोऽस्तु ते।\n
+सूर्यपुत्र नमस्तेऽस्तु भास्करेऽभयदाय च। 5\n\n
+अधोदृष्टे: नमस्तेऽस्तु संवर्तक नमोऽस्तु ते।\n
+नमो मन्दगते तुभ्यं निस्त्रिंशाय नमोऽस्तुते। 6\n\n
+तपसा दग्ध-देहाय नित्यं योगरताय च।\n
+नमो नित्यं क्षुधार्ताय अतृप्ताय च वै नम:। 7\n\n
+ज्ञानचक्षुर्नमस्तेऽस्तु कश्यपात्मज-सूनवे।\n
+तुष्टो ददासि वै राज्यं रुष्टो हरसि तत्क्षणात्। 8\n\n
+देवासुरमनुष्याश्च सिद्ध-विद्याधरोरगा:।\n
+त्वया विलोकिता: सर्वे नाशं यान्ति समूलत:। 9\n\n
+प्रसाद कुरु मे सौरे ! वारदो भव भास्करे।\n
+एवं स्तुतस्तदा सौरिर्ग्रहराजो महाबल:।10\n\n
+" />
+    </ScrollView>
+</FrameLayout>

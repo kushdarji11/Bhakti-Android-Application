@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/text2"
+    tools:context=".C7L1_tue">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="15sp"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:text="जय शिव ओंकारा ॐ जय शिव ओंकारा ।\n
+ब्रह्मा विष्णु सदा शिव अर्द्धांगी धारा ॥\n ॐ जय शिव...॥\n\n
+
+एकानन चतुरानन पंचानन राजे ।\n
+हंसानन गरुड़ासन वृषवाहन साजे ॥\n ॐ जय शिव...॥\n\n
+
+दो भुज चार चतुर्भुज दस भुज अति सोहे।\n
+त्रिगुण रूपनिरखता त्रिभुवन जन मोहे ॥\n ॐ जय शिव...॥\n\n
+
+अक्षमाला बनमाला रुण्डमाला धारी ।\n
+चंदन मृगमद सोहै भाले शशिधारी ॥\n ॐ जय शिव...॥\n\n
+
+श्वेताम्बर पीताम्बर बाघम्बर अंगे ।\n
+सनकादिक गरुणादिक भूतादिक संगे ॥\n ॐ जय शिव...॥\n\n
+
+कर के मध्य कमंडलु चक्र त्रिशूल धर्ता ।\n
+जगकर्ता जगभर्ता जगसंहारकर्ता ॥\n ॐ जय शिव...॥\n\n
+
+ब्रह्मा विष्णु सदाशिव जानत अविवेका ।\n
+प्रणवाक्षर मध्ये ये तीनों एका ॥\n ॐ जय शिव...॥\n\n
+
+काशी में विश्वनाथ विराजत नन्दी ब्रह्मचारी ।\n
+नित उठि भोग लगावत महिमा अति भारी ॥\n ॐ जय शिव...॥\n\n
+
+त्रिगुण शिवजीकी आरती जो कोई नर गावे ।\n
+कहत शिवानन्द स्वामी मनवांछित फल पावे ॥\n ॐ जय शिव...॥\n\n
+" />
+    </ScrollView>
+</FrameLayout>

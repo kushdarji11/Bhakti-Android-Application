@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/text2"
+    tools:context=".C4L2_tue">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="15dp"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:text="आरती बाल कृष्ण की कीजै,
+अपना जन्म सफल कर लीजै ॥\n\n
+
+श्री यशोदा का परम दुलारा,
+बाबा के अँखियन का तारा ।
+गोपियन के प्राणन से प्यारा,
+इन पर प्राण न्योछावर कीजै ॥
+॥आरती बाल कृष्ण की कीजै...॥\n\n
+
+बलदाऊ के छोटे भैया,
+कनुआ कहि कहि बोले मैया ।
+परम मुदित मन लेत बलैया,
+अपना सरबस इनको दीजै ॥
+॥आरती बाल कृष्ण की कीजै...॥\n\n
+
+श्री राधावर कृष्ण कन्हैया,
+ब्रज जन को नवनीत खवैया ।
+देखत ही मन लेत चुरैया,
+यह छवि नैनन में भरि लीजै ॥
+॥आरती बाल कृष्ण की कीजै...॥\n\n
+
+तोतली बोलन मधुर सुहावै,
+सखन संग खेलत सुख पावै ।
+सोई सुक्ति जो इनको ध्यावे,
+अब इनको अपना करि लीजै ॥
+॥आरती बाल कृष्ण की कीजै...॥\n\n
+
+आरती बाल कृष्ण की कीजै,
+अपना जन्म सफल कर लीजै ॥
+" />
+</ScrollView>
+</FrameLayout>

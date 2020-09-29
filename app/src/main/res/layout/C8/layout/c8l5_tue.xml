@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/text2"
+    tools:context=".C8L5_tue">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAlignment="center"
+        android:padding="15sp"
+        android:textColor="#000000"
+        android:textSize="25sp"
+        android:text="1. लक्ष्मीबीज मंत्र\n
+ॐ ह्रीं श्रीं लक्ष्मीभयो नमः॥\n\n\n
+
+
+2. महालक्ष्मी मंत्र\n
+ॐ श्रीं ह्रीं श्रीं कमले कमलालये प्रसीद प्रसीद ॐ श्रीं ह्रीं श्रीं महालक्ष्मयै नम:॥\n\n
+\n
+3. लक्ष्मी गायत्री मंत्र\n
+ॐ श्री महालक्ष्म्यै च विद्महे विष्णु पत्न्यै च धीमहि तन्नो लक्ष्मी प्रचोदयात् ॐ॥\n\n
+" />
+
+</FrameLayout>

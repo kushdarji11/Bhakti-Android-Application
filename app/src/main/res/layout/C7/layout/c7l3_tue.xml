@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/text2"
+    tools:context=".C7L3_tue">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:padding="15sp"
+        android:text="महामृत्युंजय मंत्र \n\n
+ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम् |\n
+उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय माऽमृतात् ||\n\n
+
+मंत्र का अर्थ\n
+हम त्रिनेत्र को पूजते हैं,\n
+जो सुगंधित हैं, हमारा पोषण करते हैं,\n
+जिस तरह फल, शाखा के बंधन से मुक्त हो जाता है,\n
+वैसे ही हम भी मृत्यु और नश्वरता से मुक्त हो जाएं।
+" />
+
+</FrameLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/text2"
+    tools:context=".C5L3_tue">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:padding="15sp"
+        android:text="किसी भी प्रकार के कार्य प्रारंभ करने के पूर्व श्री गणेश जी का स्मरण इस मंत्र के साथ अवश्य करना चाहिए, आपके शुभकार्य निश्चित ही सिद्ध होंगे।\n\n
+
+वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ।\n
+निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥\n\n
+
+रूपांतरण:\n
+वक्रतुण्ड: घुमावदार सूंड\n
+महाकाय: महा काया, विशाल शरीर\n
+सूर्यकोटि: सूर्य के समान\n
+समप्रभ: महान प्रतिभाशाली\n
+निर्विघ्नं: बिना विघ्न\n
+कुरु: पूरे करें\n
+मे: मेरे\n
+देव: प्रभु\n
+सर्वकार्येषु: सारे कार्य\n
+सर्वदा: हमेशा, सदैव\n
+\n
+घुमावदार सूंड वाले, विशाल शरीर काय, करोड़ सूर्य के समान महान प्रतिभाशाली।\n
+मेरे प्रभु, हमेशा मेरे सारे कार्य बिना विघ्न के पूरे करें (करने की कृपा करें)॥\n\n
+" />
+</ScrollView>
+</FrameLayout>

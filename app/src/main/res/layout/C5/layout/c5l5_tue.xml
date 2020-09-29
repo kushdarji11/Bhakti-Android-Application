@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/text2"
+    tools:context=".C5L5_tue">
+
+    <!-- TODO: Update blank fragment layout -->
+    <com.codesgood.views.JustifiedTextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="15sp"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:layout_marginLeft="10dp"
+        android:text="1- सुमुख-अर्थात सुन्दर मुख वाले।\n
+2- एकदन्त-अर्थात एक दांत वाले।\n
+3- कपिल-अर्थात कपिल वर्ण के।\n
+4- गजकर्ण-अर्थात हाथी के कान वाले।\n
+5- लम्बोदर-अर्थात लम्बे पेट वाले।\n
+6- विकट-अर्थात विपत्ति का नाश करने वाले।\n
+7- विनायक-अर्थात न्याय करने वाले।\n
+8- धूम्रकेतु-अर्थात धुये के रंग वाली पताका वाले।\n
+9- गणाध्यक्ष-अर्थात गुणों के अध्यक्ष।\n
+10- भालचन्द्र-अर्थात मस्तक में चन्द्रमा धारण करने वाले।\n
+11- गजानन-अर्थात हाथी के समान मुख वाले।\n
+12- विघ्ननाशन-अर्थात विघ्नों को हरने वाले।\n
+" />
+
+</FrameLayout>

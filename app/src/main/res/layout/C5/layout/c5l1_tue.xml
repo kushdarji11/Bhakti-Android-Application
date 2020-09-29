@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/text2"
+    tools:context=".C5L1_tue">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:padding="15sp"
+        android:text="जय गणेश जय गणेश,
+जय गणेश देवा ।\n
+माता जाकी पार्वती,
+पिता महादेवा ॥\n\n
+
+एक दंत दयावंत,
+चार भुजा धारी ।\n
+माथे सिंदूर सोहे,
+मूसे की सवारी ॥\n\n
+
+जय गणेश जय गणेश,
+जय गणेश देवा ।\n
+माता जाकी पार्वती,
+पिता महादेवा ॥\n\n
+
+पान चढ़े फल चढ़े,
+और चढ़े मेवा ।\n
+लड्डुअन का भोग लगे,
+संत करें सेवा ॥\n\n
+
+जय गणेश जय गणेश,
+जय गणेश देवा ।\n
+माता जाकी पार्वती,
+पिता महादेवा ॥\n\n
+
+अंधन को आंख देत,
+कोढ़िन को काया ।\n
+बांझन को पुत्र देत,
+निर्धन को माया ॥\n\n
+
+जय गणेश जय गणेश,
+जय गणेश देवा ।\n
+माता जाकी पार्वती,
+पिता महादेवा ॥\n\n
+
+'सूर' श्याम शरण आए,
+सफल कीजे सेवा ।\n
+माता जाकी पार्वती,
+पिता महादेवा ॥\n\n
+
+जय गणेश जय गणेश,
+जय गणेश देवा ।\n
+माता जाकी पार्वती,
+पिता महादेवा ॥\n\n
+
+" />
+</ScrollView>
+</FrameLayout>

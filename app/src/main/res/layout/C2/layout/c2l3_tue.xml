@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/text2"
+    tools:context=".C2L3_tue">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <!-- TODO: Update blank fragment layout -->
+    <com.example.bhakti1.HindiText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fontFamily="@font/audiowide"
+        android:layout_marginTop="12dp"
+        android:padding="20sp"
+        android:gravity="center"
+        android:textColor="#000000"
+        android:text="सन् 1983 से श्री गायत्री शक्तिपीठ द्वारिका मे माँ गायत्री का एक मात्र मंदिर है, जिसके साथ-साथ यहाँ धार्मिक यात्रियों के रुकने के लिए धर्मशाला भी जुड़ी हुई है। भक्त यहाँ गायत्री माता की पूजा करने के लिए बड़ी ही श्रद्धा से आते हैं, और गायत्री परिवार के लोगों के लिए यह अति विशिष्ठ पूज्य मंदिर है। वर्ष मे कम से कम एक बार, मंदिर की स्थापना दिवस पर यहाँ अन्नकूट का आयोजन अवश्य होता है। यह मंदिर भक्ति भारत द्वारा लिखा गया प्रथम माँ गायत्री मंदिर है।"
+        android:textAlignment="center"
+        android:textSize="27sp" />
+</ScrollView>
+</FrameLayout>

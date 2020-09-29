@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/text2"
+    tools:context=".C2L4_tue">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:padding="15sp"
+        android:text="गायत्री मंत्र को हिन्दू धर्म में सबसे उत्तम मंत्र माना जाता है।
+\n\n
+ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्यः धीमहि धियो यो नः प्रचोदयात्॥
+\n\n
+इस मंत्र का हिंदी में मतलब है - हे प्रभु, कृपा करके हमारी बुद्धि को उजाला प्रदान कीजिये और हमें धर्म का सही रास्ता दिखाईये। यह मंत्र सूर्य देवता के लिये प्रार्थना रूप से भी माना जाता है।
+\n\n
+हे प्रभु! आप हमारे जीवन के दाता हैं
+आप हमारे दुख़ और दर्द का निवारण करने वाले हैं
+आप हमें सुख़ और शांति प्रदान करने वाले हैं
+हे संसार के विधाता
+हमें शक्ति दो कि हम आपकी उज्जवल शक्ति प्राप्त कर सकें
+क्रिपा करके हमारी बुद्धि को सही रास्ता दिखायें
+\n\n
+मंत्र के प्रत्येक शब्द की हिंदी व्याख्या:\n
+गायत्री मंत्र के पहले नौं शब्द प्रभु के गुणों की व्याख्या करते हैं\n
+ॐ = प्रणव\n
+भूर = मनुष्य को प्राण प्रदाण करने वाला\n
+भुवः = दुख़ों का नाश करने वाला\n
+स्वः = सुख़ प्रदाण करने वाला\n
+तत = वह सवितुर = सूर्य की भांति उज्जवल\n
+वरेण्यं = सबसे उत्तम\n
+भर्गो = कर्मों का उद्धार करने वाला\n
+देवस्य = प्रभु\n
+धीमहि = आत्म चिंतन के योग्य (ध्यान)\n
+धियो = बुद्धि, यो = जो\n नः = हमारी\n प्रचोदयात् = हमें शक्ति दें\n
+" />
+    </ScrollView>
+</FrameLayout>

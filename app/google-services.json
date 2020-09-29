@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "455175188692",
+    "firebase_url": "https://musicplayer1-dad03.firebaseio.com",
+    "project_id": "musicplayer1-dad03",
+    "storage_bucket": "musicplayer1-dad03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455175188692:android:8a4b5d279e630d132ccb41",
+        "android_client_info": {
+          "package_name": "com.example.bhakti1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455175188692-ljs2h30djjfnvtuoh0787n8c445bmsio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhakti1",
+            "certificate_hash": "9016bc6042376f49a9cea872a02bda31fc732551"
+          }
+        },
+        {
+          "client_id": "455175188692-8j9tgp285d5lct4qkgqb9rl49rd0lj8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo-CdrvmeX-t4_bau4gt_OI5xIdfHllz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455175188692-8j9tgp285d5lct4qkgqb9rl49rd0lj8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455175188692:android:62184b9633d71add2ccb41",
+        "android_client_info": {
+          "package_name": "com.example.musicplayer1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455175188692-lfeosr8cjp1054gm1b8niannfsvurgs2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musicplayer1",
+            "certificate_hash": "9016bc6042376f49a9cea872a02bda31fc732551"
+          }
+        },
+        {
+          "client_id": "455175188692-8j9tgp285d5lct4qkgqb9rl49rd0lj8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo-CdrvmeX-t4_bau4gt_OI5xIdfHllz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455175188692-8j9tgp285d5lct4qkgqb9rl49rd0lj8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

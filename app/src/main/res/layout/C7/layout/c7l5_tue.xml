@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/text2"
+    tools:context=".C7L5_tue">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="15sp"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:text=
+            "(1)\n\nहे भोले बाबा शिव भंडारी\n
+दुनिया है आई शरण तिहारी
+भोले नाथ गम हरे गे,
+भंडार वो भरेंगे,
+हे भोले बाबा शिव भंडारी दुनिया है आई शरण तिहारी,
+भोले नाथ गम हरे गे,\n\n
+
+सुन ता है तू दिल की सदा आगे तेरे कुछ न छुपा,
+भोले नाथ मेरे नाथ तेरी बार बार जय कार हम करेंगे,
+भण्डार वो भरेंगे,
+हे भोले बाबा शिव भंडारी दुनिया है आई शरण तिहारी,
+भोले नाथ गम हरे गे,\n\n
+
+विपदा की आये घडी जोड़ के हाथ दुनिया खड़ी,
+भोले नाथ मेरे नाथ सबपे वार वार उपकार वो ही करेंगे,
+भण्डार वो भरेंगे,
+हे भोले बाबा शिव भंडारी दुनिया है आई शरण तिहारी,
+भोले नाथ गम हरे गे,\n\n
+
+सुबह के बाद होती है रात सुख दुःख संग चलते है साथ
+भोले नाथ मेरे नाथ सब को बार बार भव से वोही तरेगे,
+भण्डार वो भरेंगे,
+हे भोले बाबा शिव भंडारी दुनिया है आई शरण तिहारी,
+भोले नाथ गम हरे गे,\n\n
+
+(2)\n\n
+
+भोले शिव भोले\n
+
+भोले... शिव भोले\n
+
+तू दरस दिखा जा भोले
+सोये भाग जगा जा भोले
+मन मेरा शिव शिव बोले
+भोले... शिव भोले\n\n
+
+तीन लोक के मालिक शम्भू दुनिया के रखवाले हो
+सबके मन की पूरी करते बाबा भोले भाले हो\n
+
+मन मंदिर में नाम तेरा जो जय शिव जय शिव कहता है
+पावन ह्रदय हो जाये जो गंगा जैसे बेहटा है\n
+
+डम डम डम डमरू बाजे दुखियों के दुःख हरता है
+संजू ओजला का भी भोले तेरे बिना न चलता है
+भोले... शिव भोले\n\n
+
+" />
+    </ScrollView>
+</FrameLayout>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bhakti1">
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713"/>
+
+        <activity android:name=".C8L6"/>
+        <activity android:name=".C8L5" />
+        <activity android:name=".C8L4" />
+        <activity android:name=".C8L3" />
+        <activity android:name=".C8L2" />
+        <activity android:name=".C8L1" />
+        <activity android:name=".List42" />
+        <activity android:name=".C7L5" />
+        <activity android:name=".C7L4" />
+        <activity android:name=".C7L3" />
+        <activity android:name=".C7L2" />
+        <activity android:name=".C7L1" />
+        <activity android:name=".List41" />
+        <activity android:name=".C6L4" />
+        <activity android:name=".C6L3" />
+        <activity android:name=".C6L2" />
+        <activity android:name=".C6L1" />
+        <activity android:name=".List32" />
+        <activity android:name=".C5L5" />
+        <activity android:name=".C5L4" />
+        <activity android:name=".C5L3" />
+        <activity android:name=".C5L2" />
+        <activity android:name=".C5L1" />
+        <activity android:name=".List31" />
+        <activity android:name=".C4L6" />
+        <activity android:name=".C4L5" />
+        <activity android:name=".C4L4" />
+        <activity android:name=".C4L3" />
+        <activity android:name=".C4L2" />
+        <activity android:name=".C4L1" />
+        <activity android:name=".List22" />
+        <activity android:name=".C3L7" />
+        <activity android:name=".C3L6" />
+        <activity android:name=".C3L5" />
+        <activity android:name=".C3L4" />
+        <activity android:name=".C3L3" />
+        <activity android:name=".C3L2" />
+        <activity android:name=".C3L1" />
+        <activity android:name=".List21" />
+        <activity android:name=".C2L5" />
+        <activity android:name=".C2L4" />
+        <activity android:name=".C2L3" />
+        <activity android:name=".C2L2" />
+        <activity android:name=".C2L1" />
+        <activity android:name=".List12" />
+        <activity android:name=".C1L5" />
+        <activity android:name=".C1L4" />
+        <activity android:name=".C1L3" />
+        <activity android:name=".C1L2" />
+        <activity android:name=".C1L1" />
+        <activity android:name=".imageViewList" />
+        <activity android:name=".List11" />
+        <activity android:name=".MainActivity"
+            android:theme="@style/MyTheme">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

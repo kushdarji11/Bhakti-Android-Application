@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/text2"
+    tools:context=".C3L1_tue">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:padding="15sp"
+        android:text="
+आरती कीजे हनुमान लला की |\n
+दुष्ट दलन रघुनाथ कला की ||\n\n
+
+जाके बल से गिरिवर कांपे |\n
+रोग दोष जाके निकट ना जांके ||\n\n
+अनजनी पुत्र महा बलदाई |\n
+संतन के प्रभु सदा सही ||\n\n
+
+दे बीरा रघुनाथ पठाए |\n
+लंका जारि सिया सुधि काये ||\n\n
+लंका सो कोटि समुद्र की खायी |\n
+जात पवन सुत बार ना लायी ||\n\n
+लंका जरि असुर संघारे |\n
+सियाराम जी के काज सवारे ||\n\n
+
+लक्षमण मुर्षित पड़े सकारे |\n
+लाये सजीवन प्राण उभारे ||\n\n
+पैठी पाताल तोरि जमकारे |\n
+अहिरावन की भुजा उखारे ||\n\n
+बाए भुजा असुर दल मारे |\n
+दाहिने भुजा संत जन तारे ||\n\n
+
+सुर नर मुनि जन आरती उतारे |\n
+जय जय जय हनुमान उचारे ||\n\n
+कंचन थाल कपूर लौ छाई |\n
+आरती करत अंजना माई ||\n\n
+जो हनुमान जी की आरती गावे |\n
+बसि बैकुंठ परमपद पावे ||\n\n
+
+" />
+
+    </ScrollView>
+
+</FrameLayout>

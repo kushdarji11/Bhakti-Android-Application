@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/text2"
+    tools:context=".C8L1_tue">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:padding="15sp"
+        android:textAlignment="center"
+        android:text="ॐ जय लक्ष्मी माता, मैया जय लक्ष्मी माता ।\n\n
+तुमको निस दिन सेवत हर-विष्णु-धाता ॥ॐ जय...\n
+उमा, रमा, ब्रह्माणी, तुम ही जग-माता ।
+सूर्य-चन्द्रमा ध्यावत, नारद ऋषि गाता ॥ॐ जय...\n\n
+
+तुम पाताल-निरंजनि, सुख-सम्पत्ति-दाता ।\n
+जो कोई तुमको ध्यावत, ऋद्धि-सिद्धि-धन पाता ॥ॐ जय...\n\n
+
+तुम पाताल-निवासिनि, तुम ही शुभदाता ।\n
+कर्म-प्रभाव-प्रकाशिनि, भवनिधि की त्राता ॥ॐ जय...\n\n
+
+जिस घर तुम रहती, तहँ सब सद्गुण आता ।\n
+सब सम्भव हो जाता, मन नहिं घबराता ॥ॐ जय...\n\n
+
+तुम बिन यज्ञ न होते, वस्त्र न हो पाता ।\n
+खान-पान का वैभव सब तुमसे आता ॥ॐ जय...\n\n
+शुभ-गुण-मंदिर सुन्दर, क्षीरोदधि-जाता ।\n
+रत्न चतुर्दश तुम बिन कोई नहिं पाता ॥ॐ जय...\n\n
+
+महालक्ष्मीजी की आरती, जो कई नर गाता ।\n
+उर आनन्द समाता, पाप शमन हो जाता ॥ॐ जय...\n\n
+" />
+    </ScrollView>
+</FrameLayout>

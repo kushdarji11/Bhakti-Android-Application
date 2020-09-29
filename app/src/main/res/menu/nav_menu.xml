@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/home"
+            android:title="HOME" />
+        <item
+            android:id="@+id/ambe"
+            android:icon="@drawable/ambe2"
+            android:title="Ambe" />
+        <item
+            android:id="@+id/gayatri"
+            android:icon="@drawable/gayatri"
+            android:title="Gayatri" />
+        <item
+            android:id="@+id/hanuman"
+            android:icon="@drawable/hanuman"
+            android:title="Hanuman" />
+        <item
+            android:id="@+id/krishna"
+            android:icon="@drawable/krishna1"
+            android:title="Krishna" />
+        <item
+            android:id="@+id/ganesha"
+            android:icon="@drawable/ganesha"
+            android:title="Ganesha" />
+        <item
+            android:id="@+id/shani"
+            android:icon="@drawable/shani"
+            android:title="Shanidev" />
+        <item
+            android:id="@+id/mahadev"
+            android:icon="@drawable/shiva"
+            android:title="Shiva" />
+        <item
+            android:id="@+id/laxmi"
+            android:icon="@drawable/lakshmi1"
+            android:title="Laxmi" />
+    </group>
+
+    <item android:title="">
+    <menu>
+
+        <item
+            android:id="@+id/share"
+            android:icon="@drawable/share"
+            android:title="Share"
+            app:showAsAction="always"/>
+
+    </menu>
+    </item>
+
+</menu>
